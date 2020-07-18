@@ -3,5 +3,4 @@ I'm learning to use github
 
 Test test test. I like music.
 
-#$RAWE
-sdf
+This is my third test.
